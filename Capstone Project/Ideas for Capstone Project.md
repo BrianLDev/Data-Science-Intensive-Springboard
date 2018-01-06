@@ -1,4 +1,4 @@
-## CAPSTONE PROJECT IDEAS
+# CAPSTONE PROJECT IDEAS
 
 **Springboard - Data Science Intensive Course**
 
